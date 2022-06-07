@@ -129,3 +129,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+output/R100_ElasticArcFace/11372backbone.pth
+output/R100_ElasticArcFace/modelo.pth.rar
